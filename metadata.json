@@ -1,0 +1,8 @@
+{
+  "name": "Remix Image Grid Merger",
+  "description": "Upload up to four images and merge them into a 2x2 grid with visual position controls and white space filling for unused slots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
